@@ -2,10 +2,10 @@
   <html>
   <head>
 <meta charset= "utf-8">
-<title>BIENVENIDO A WWW.NUEGADOS.COM </title>
+<title>BIENVENIDO A WWW.TAMALES.COM </title>
 </head>
   <body>
-<h1>¡ Lo lograste! El virtual host www.nuegados.com está funcionando !</h1>
+<h1>Llegaste a compras</h1>
 
  <?php
 print "El hostname del servidor es: ";
